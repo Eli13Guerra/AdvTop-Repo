@@ -1,0 +1,28 @@
+Lecture: March 3rd, 2023
+
+Set Notation: This notation expresses a coordinate (point) as the position within and across the sets of an element in curly brackets {}.
+Mapping diagram: This visual representation connects the elements of the image set with the ones in the domain set.
+Relations: These are the sets of order pairs.
+Dimensionality Reduction: This is to reduce the number of variables to only those relevant to the model.
+Discrete: A variable that can't have values between the available outputs.
+Continuous: A variable that can take any value within the domain.
+Deterministic Model: This model can be explained by assigning a rule to pair the domain and the image (function).
+Function: A mathematical model correlating an independent variable with a dependent variable.
+Well-behaved function: It is single-valued, continuous, and its derivative is defined and continues in all its domain.
+Stochastic: It is a model whose outputs are dependent on a probability distribution and whose results can't be precisely determined.
+Linear regression: It is a mathematical model in the form of y=mx+b that best fits a data set.
+Non-linear regression: It is a mathematical model that has a different form than y=mx+b and best fits a data set
+Data extraction for physical insight: It is to generate a model whose parameters represent physical properties and help to understand physical phenomena
+Data extraction to create new data: It is when a model is generated to predict the behavior of a system and draw conclusions/predictions for future events.
+
+Lecture: March 13th, 2023
+
+Generalized function: Functional. The function of functions. 
+Distribution Theory: Is to model behavior that classically would not be well-behaved with well-behaved functions
+Sample: It is the subset that's being measured 
+Population: It is the global set of all the possible outcomes.
+Systematic sampling: Is to take samples from an observable in regular intervals
+Deterministic system: When the system behaves by a function.
+Statistics: It is the discipline that collects and analyzes data to draw conclusions and inferences about the data.
+Random sampling: It is when the sampling frequency is not regular or doesn't follow any logical behavior.
+Cluster sampling/stratified sampling: It is when the data is divided into different subsets (based on some criteria), and these are randomly selected for sampling.
