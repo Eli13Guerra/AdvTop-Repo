@@ -26,3 +26,46 @@ Deterministic system: When the system behaves by a function.
 Statistics: It is the discipline that collects and analyzes data to draw conclusions and inferences about the data.
 Random sampling: It is when the sampling frequency is not regular or doesn't follow any logical behavior.
 Cluster sampling/stratified sampling: It is when the data is divided into different subsets (based on some criteria), and these are randomly selected for sampling.
+
+Lecture: March 15th, 2023
+
+Random variable: Quantity or object that depends on random events.
+Probability density function (PDF): It a function that models the relative probability of a random variable.
+Univaraite: A function that depends on only a single variable. 
+Probability distribution: Is a function that desribes the probability of the outcomes of a variable.
+Discrete random variables: Random variables whose outcomes don't have continuity or midpoints between them.
+Probability mass function: aka Discrete density function. Is a distribution of the probability of discrete values, therefore this is not continuos either.
+Numeric Set: Set composed of discrete numeric values
+Subset: A set composed of elements from an equal or larger set.
+Mathematical Axioms: Is a statement than accepted to be true and correct. A set of ruler that define a mathematical space.
+Cumulative distribution function (cdf): Is a function that adds from left to right the probability of the outcomes of the distribution (from o to 1)
+Complementary cumulative distribution functions (ccdf): 1-cdf (from 1 to 0).
+Measure theory: The probability of measuring all the events in a probability population is 1.
+Mathematical spaces: Set of mathematical elements that obeys an structure mathematical axioms.
+Bounds form an interval: Closed take the boundaries and open don't
+Sthocastic convergence: The larger the set becomes or the longer it is studied, it will converge into a well define structure o behavior.
+Scheffe's theorem: A function that's a sequence of integrable functions than converge will almost certainly converge. If all the elements converge and can be integrated, the sum of all of them is almost centain to converge.
+
+Lecture: March 17th, 2023
+
+Empirical distribution: Distribution of values taken directly from a physical observable.
+Theoretical probability distribution function: It's a function that's use to model or understand data based on tunis parameters that can have or not physical meaning.
+Maximum likelihood estimation (MLE): Is estimating the value of the parameters in a function given a set of empirical data.
+Parameter Space: Is a space composed by all the possible values of a parameter in a mathematical model.
+Conditional Probabilities: Are the probabilities of an outcome given than a previous event or outcome has already occured.
+Residual: Is the difference between the observable and the model.
+Error: The difference between the observable between a sample and the whole population.
+Residual sum of squares: The sum of the squares of the residuals. 
+Warsserstein distance: Distance function between two probability distributions.
+Z-test or Students t-test: Statistical test to determine if two populations are different.
+Central Limit Theorem: The mean of set of samples will follow a normal distribution.
+Hypothesis test: Decision making test that allows to draw inferences or conclusion for the population parameters from statistical descriptors of samples.
+Null hypothesis (Ho): The hypothesis that can be rejected or not (There's no diffences).
+Alternative hypothesis (Ha): The hypothesis that isn't rejected (There are differences).
+P-Value: Measures the probability of obtaining the observed results assuming the null hypothesis is true.
+Parametric models: Model that captures the behavior of a system through a set of finite values.
+Parametric statistics: Statistics that describes the probability of a population through the parameters obtained from samples.
+Mixture models:
+Non-parametric models:
+Ranked Data:
+Correlation Methods:
