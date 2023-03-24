@@ -72,13 +72,14 @@ Correlation Methods: Methods that depend on drawing connections and relationship
 
 Lecture: March 20th, 2023
 
-Open set: ()
-Closed set: []
+Open set: () Doesn't include the boundaries
+Closed set: [] Includes the boundaries
 Two-Dimensional coordinate system: Cartesian place (x,y).
 Topological Space: Spaced defined by closeness and neighborhoods of data.
 Distance: In a metric space is what defines the comparison rule between elements.
 Connectedness: Is how a through how many neighbors are two elements connected of close to each other.
 Compactness: How tightly close are the elements from the set to each other.
+Continuity: When all the elements in a set have an image.
 Cover: A group of sets that collectively contain X as a subset.
 Surjective: All elements are mapped.
 Non-surjective: Not all elements are mapped.
@@ -88,3 +89,33 @@ Convergence: When as a function grows it approaches a finite value.
 Vector space: A space form by algebraic operators than can be modified by constants that scale their magnitude.
 Corpus: Collection/array.
 Linear Algebra: Vector and Matrixes that map a space.
+
+Lecture: March 24th, 2023
+
+Cartesian product:
+Norm:
+Dot product:
+Cross product:
+Projection:
+Linear Transformation:
+Write a system of linear equations as a matrix:
+Identity matrix (+uses):
+Determinant:
+Canonical form of a matrix:
+Matrix Decomposition (+list):
+Change of basis:
+Eigendecomposition:
+PCA:
+SVD:
+Characteristic equation:
+Characteristic polynomial:
+Encoder & Decoder:
+Joint probability distribution function:
+Conditional Probability Distribution Function:
+Marginal Distribution:
+Mutual information:
+Covariance vs Correlation:
+Feature Vectors:
+Matrix Rank:
+Frobenius Norm:
+Low rank approximation:
