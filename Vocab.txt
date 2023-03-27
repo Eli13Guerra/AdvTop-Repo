@@ -90,32 +90,40 @@ Vector space: A space form by algebraic operators than can be modified by consta
 Corpus: Collection/array.
 Linear Algebra: Vector and Matrixes that map a space.
 
-Lecture: March 24th, 2023
+Lecture: March 24th, 2023 (HW3)
 
-Cartesian product:
-Norm:
-Dot product:
-Cross product:
-Projection:
-Linear Transformation:
+Cartesian product: Is the set that contains all the posible ordered combinations consisting of one member from each of the progenitor sets.
+Norm: Is the function that gives the total distance (dimension) from the origin to a vector
+Dot product: Is the projection of a vector "a" onto a vector "b". Defined as (a*b)=||b||*||a||cos(theta)
+Cross product: Is the vector resulting of the operation |A||B|*sin(theta) that's perpendicular to the progenitor vectors.
+Projection: Is the respresentation of the magnitud at which a vector has properties like the vector onto which is being projected.
+Linear Transformation: Is a function that takes elements from one vector space to another, and complies with the set rules of each vector spaces.
 Write a system of linear equations as a matrix:
-Identity matrix (+uses):
-Determinant:
-Canonical form of a matrix:
-Matrix Decomposition (+list):
-Change of basis:
-Eigendecomposition:
-PCA:
-SVD:
-Characteristic equation:
-Characteristic polynomial:
-Encoder & Decoder:
-Joint probability distribution function:
-Conditional Probability Distribution Function:
-Marginal Distribution:
-Mutual information:
-Covariance vs Correlation:
-Feature Vectors:
-Matrix Rank:
-Frobenius Norm:
-Low rank approximation:
+4x * 5y = a    [ 4;5.    [x.    =.   [a
+6x * 7y = b.     6;7]     y].         b]
+Identity matrix (+uses): Is the standard basis of a vector space. Any vector can be expresses as a linear combination of it. It is used for eigendecomposition.
+Determinant: Is a scalar that represents a property of the matrix.
+Canonical form of a matrix: It is the simplest form in which a matrix can be expressed. Irreducible representation.
+Matrix Decomposition (+list): It is the simplest representation of the information contained in a matrix.
+-Eigendecomposition
+-Characteristic polynomial
+-Determinant
+-Cholesky decomposition
+-QR decomposition
+-Single Value decomposition (SVD)
+Change of basis: Is when the elements of a matrix are expressed in terms of a different basis set than the original (they are linearly dependent).
+Eigendecomposition: Is when a matrix is expressed as a canonical matrix. The values in the daigonal are called eigenvalues.
+Principal component analysis (PCA): Eigendecompositition of the covariance matrix
+Single Value Decomposition (SVD): Is the Eigenvalue deocomposition of a square matrix
+Characteristic equation: det(M-xI)=0 when solved the results are the eigenvalues x of matrix M
+Characteristic polynomial: Is the polynomial that contains the eigenvalues as roots and is invariant under matrix similarity.
+Encoder & Decoder: Is a matrix that converts the standard matrix into eigenbasis and the decoder is the one that returns the matrix to its standard form.
+Joint probability distribution function: Is the distribution that shows the dependance of the probability of one variable gives another.
+Conditional Probability Distribution Function: Is a slice of the Joint probability distribution function, that shows the probability of an event, given that another has a specific value.
+Marginal Distribution: Is the probability distribution of te variables contained in a subset w/o any constrain of the other variables
+Mutual information: Is the measure of dependence between two variables (intersection of information/ correlation).
+Covariance vs Correlation: Covaraiance looks at the difference between data sets whereas correlation at how dependent is one with respect to another.
+Feature Vectors: Are the ones that reduce the dimensionality into vector that capture the variance in the data
+Matrix Rank: Is the number of linearly independent vectors in the basis
+Frobenius Norm: is the matrix norm defined as the square root of the sum of the absolute squares of its elements.
+Low rank approximation: (Compression of data) Is the minimization of a matrix to another of lower rank that contains as much information from the progenitor as posible.
